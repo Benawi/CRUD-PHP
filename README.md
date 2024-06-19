@@ -23,11 +23,13 @@
 - [📝 License](#license)
 
 
-# 📖 Hello World! project <a name="about-project"></a>
+# 📖 CRUD PHP! project <a name="about-project"></a>
 
-Hello World! project is a repository consisting of the following files:
+CRUD PHP! project is a repository consisting of the following files:
 - HTML file (index.html)
 - CSS file (styles.css)
+- JS file
+- PHP fules
 
 
 The repository also contains files for setting up linters and validators.
@@ -74,7 +76,7 @@ Clone this repository to your desired folder:
 
 In order to run this project you need:
 
-- gitHub account;
+- GitHub account;
 - git installed on your OS.
 
 ### Install
