@@ -29,7 +29,7 @@ CRUD PHP! project is a repository consisting of the following files:
 - HTML file (index.html)
 - CSS file (styles.css)
 - JS file
-- PHP fules
+- PHP files
 
 
 The repository also contains files for setting up linters and validators.
@@ -102,7 +102,7 @@ To run tests, run the following commands:
 
 ### Deployment
 
-You can deploy this project adding new lines of code to index.html and styles.css files.
+You can deploy this project by adding new lines of code to index.html and styles.css files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +116,7 @@ You can deploy this project adding new lines of code to index.html and styles.cs
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-No future features suggested.
+No future features are suggested.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,7 +134,7 @@ If you like this project just star it!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank World program for providing me wthis great chance
+I would like to thank World Program for providing me with this great chance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
