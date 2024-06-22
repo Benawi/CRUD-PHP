@@ -47,7 +47,6 @@ The repository also contains files for setting up linters and validators.
   </ul>
 </details>
 
-
 ### Key Features <a name="key-features"></a>
 
 - **no linter errors**
