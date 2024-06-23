@@ -132,7 +132,7 @@ If you like this project just star it!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank World Program for providing me with this great chance
+I would like to thank CS Program for providing me with this great chance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
