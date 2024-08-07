@@ -74,7 +74,7 @@ Clone this repository to your desired folder:
 In order to run this project you need:
 
 - GitHub account;
-- git installed on your OS.
+- git installed on your OS
 
 ### Install
 
