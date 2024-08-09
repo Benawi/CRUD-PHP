@@ -94,7 +94,7 @@ You can use this project by cloning it to your folder and changing index.html an
 
 To run tests, run the following commands:
 
-> npx hint .
+> npx hint.
 > npx stylelint "**/*.{css,scss}"
 
 ### Deployment
